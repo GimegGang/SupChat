@@ -1,0 +1,13 @@
+.chat{
+    width: 40%;
+    border: solid black 2px;
+    margin: auto;
+    height: 700px;
+}
+.chat ul{
+    height: 92%;
+}
+.chat input{
+    width: 90%;
+    border: solid black 1px;
+}
